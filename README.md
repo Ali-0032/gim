@@ -25,3 +25,5 @@ Corso di Grafica in movimento 2025, SUPSI.
 
 ## Esercizio 3a
 - [Esercizio 3a: pong]()
+- [Esercizio 3a: pioggia]()
+- [Esercizio 3a: neve]()

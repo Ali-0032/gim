@@ -23,3 +23,5 @@ Corso di Grafica in movimento 2025, SUPSI.
 - [Esercizio 2: parallasse animato](https://ali-0032.github.io/gim/Esercizio_2/index_animato.html)
 - [Esercizio 2: parallasse interattivo](https://ali-0032.github.io/gim/Esercizio_2/index_interattivo.html)
 
+## Esercizio 3a
+- [Esercizio 3a: pong]()

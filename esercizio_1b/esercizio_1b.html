@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="author" content="Nome Cognome" />
+	<title>img</title>
+	<style type="text/css">
+		html{
+			height:100%;
+		}
+		body{
+			background-color: rgb(235,235,235);
+			margin: 3em 2em;
+		}
+	</style>
+
+</head>
+<body>
+
+	<img />
+
+	<script type="module">
+
+		const sequenza = [
+			"img/logo_fiore-01.png",
+			"img/logo_fiore-02.png",
+			"img/logo_fiore-03.png",
+			"img/logo_fiore-04.png",
+			"img/logo_fiore-05.png",
+			"img/logo_fiore-06.png",
+			"img/logo_fiore-07.png",
+			"img/logo_fiore-08.png",
+			"img/logo_fiore-08.png",
+			"img/logo_fiore-09.png",
+			"img/logo_fiore-10.png",
+			"img/logo_fiore-11.png",
+			"img/logo_fiore-12.png",
+			"img/logo_fiore-13.png",
+			"img/logo_fiore-14.png",
+			"img/logo_fiore-15.png",
+	
+			// ----------------------
+
+
+		]
+
+		let frame = 0
+
+		setInterval(() => {
+			const img = document.querySelector("img")
+			img.src = sequenza[frame]
+			frame = (frame + 1) % sequenza.length
+		}, 250)
+
+	</script>
+</body>
+</html>

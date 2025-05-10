@@ -24,6 +24,6 @@ Corso di Grafica in movimento 2025, SUPSI.
 - [Esercizio 2: parallasse interattivo](https://ali-0032.github.io/gim/Esercizio_2/index_interattivo.html)
 
 ## Esercizio 3a
-- [Esercizio 3a: pong]()
-- [Esercizio 3a: pioggia]()
-- [Esercizio 3a: neve]()
+- [Esercizio 3a: pong](https://ali-0032.github.io/gim/esercizio_3a/pong/index.html)
+- [Esercizio 3a: pioggia](https://ali-0032.github.io/gim/esercizio_3a/pioggia/index.html)
+- [Esercizio 3a: neve](https://ali-0032.github.io/gim/esercizio_3a/neve/index.html)

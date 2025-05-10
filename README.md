@@ -14,7 +14,7 @@ Corso di Grafica in movimento 2025, SUPSI.
 
 
 ## Esercizio 1b
-- link all'esercizio 1b
+- [Esercizio 1b: logo](https://ali-0032.github.io/gim/esercizio_1b/esercizio_1b.html)
 
 ## Esercizio 1c
 - [Esercizio 1c](https://ali-0032.github.io/gim/esercizio_1c/README.md)

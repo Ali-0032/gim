@@ -29,4 +29,4 @@ Corso di Grafica in movimento 2025, SUPSI.
 - [Esercizio 3a: neve](https://ali-0032.github.io/gim/esercizio_3a/neve/index.html)
 
 ## Esercizio 3b
-- [Esercizio 3b: orologio]
+- [Esercizio 3b: orologio](https://ali-0032.github.io/gim/esercizio_3b/index.html)
